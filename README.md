@@ -1,1 +1,8 @@
-# Appium_Python_android
+## common包
+    存放公共类：例如App的启动和退出，滑动、多点触控、toast获取操作的封装
+## page
+    存放页面类：对页面元素执行点击、发送内容的操作
+## testcase
+    测试用例类：执行测试用例，做断言没判断预期结果与实际结果是否一致
+## testdata
+    数据层
